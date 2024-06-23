@@ -70,7 +70,7 @@ footer p{
 
 @media screen and (max-width: 500px){
     .page1{
-        min-height: 186vh;
+        min-height: 156vh;
         width: 100%;
     }
 
